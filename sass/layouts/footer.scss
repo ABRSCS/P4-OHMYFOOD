@@ -1,0 +1,37 @@
+/*footer*/
+footer {
+    padding: 20px;
+    background-color: $bgcolor3;
+    color: $bgcolor1;
+    
+    
+
+    h2 {
+        font-size: 1.125em;
+        margin: 0;
+        margin-bottom: 1rem;
+    }
+
+    ul {
+        list-style-type: none;
+        font-weight: 500;
+        padding: 0;
+    }
+
+    a {
+        display: flex;
+        align-items: center;
+        color: $bgcolor1;
+        text-decoration: none;
+        
+        i {
+            width: 1.5rem;
+            margin-right: 0.5rem;
+        }
+       
+        
+    }
+   
+
+
+}

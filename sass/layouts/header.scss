@@ -1,0 +1,30 @@
+/* header*/
+header {
+    
+
+    h1 {
+        font-family:$font-main-title;
+        text-align:center;
+        margin: 0;
+        font-size: 1.875em;
+        font-weight: 400;
+        
+
+        
+    }
+
+    .location {
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        background-color: #EAEAEA;
+        box-shadow: -1px 1px 9px 0px rgba(0, 0, 0, 0.5);
+
+       
+        
+    }
+}
+
+
+
