@@ -43,6 +43,13 @@ body {
 }
 
 /*elements*/
+a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    position: relative;
+    z-index: 1;
+}
 
 .logo-f {
     font-family:$font-main-title;
